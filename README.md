@@ -10,7 +10,7 @@ Welcome to the **Fake Sales Notification** project! This is a simple demo that s
 - 🎨 Clean, responsive design
 
 ## 🔗 Live Demo
-Check out the live demo here: [https://iam269.github.io/Fake-Sales-Notification/](https://iam269.github.io/Fake-Sales-Notification/)
+Check out the live demo here: [https://itsiamdev.github.io/Fake-Sales-Notification/](https://itsiamdev.github.io/Fake-Sales-Notification/)
 
 ## 📁 Project Structure
 - `index.html` - Main HTML file
